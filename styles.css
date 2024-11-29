@@ -1,0 +1,61 @@
+body{
+    margin: -5px -5px -5px -5px;
+    
+}
+
+.header-container {
+    background-image:url("background.jpg");
+    background-size: cover;
+}
+
+header {
+    width: 80%;
+    margin: 0 auto;
+    padding: 180px
+
+}
+
+.container{
+    display: flex;
+    width: 50%;
+    
+    
+    
+}
+
+
+
+.text-block {
+    
+    padding: 0px 30px 35px 0px;
+    font-family: sans-serif;
+    
+}
+
+.hhh{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h2{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 200;
+    letter-spacing: 3px;
+    font-style:normal;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+span{
+    text-decoration: underline;
+}
+
